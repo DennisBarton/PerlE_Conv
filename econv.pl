@@ -49,6 +49,7 @@ my @defunits=(
 ['ryd','Rydberg'               ,'ryd'      ,$con{ryd}                   ],
 ['Hz' ,'Hertz'                 ,'Hz'       ,$con{h}                     ],
 ['K'  ,'Kelvin'                ,'K'        ,$con{k}                     ],
+['erg','Erg'                   ,'erg'      ,1.0e-7                      ],
 );
 my %units=();
 foreach (@defunits) {
