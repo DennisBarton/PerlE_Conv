@@ -15,9 +15,6 @@
 #
 # Date: 03/17/2015
 #
-# Copyright © Dennis Barton 2014
-# ALL RIGHTS RESERVED
-#
 ########################################################################
 use strict;
 use Scalar::Util qw(looks_like_number);
